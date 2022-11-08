@@ -6,10 +6,11 @@
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) 2022
 - [CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning](https://arxiv.org/abs/2210.04559) 2022
 - [Argmax flows and multinomial diffusion: Towards non-autoregressive language models](https://arxiv.org/pdf/2102.05379v3.pdf) 2021
-- [Discrete flows: Invertible generative models of discrete data.](https://arxiv.org/pdf/1905.10347.pdf) 2019
+
 - [Categorical SDEs with Simplex Diffusion](https://arxiv.org/pdf/2210.14784.pdf) 2022
 - [Step-unrolled denoising autoencoders for text generation](https://arxiv.org/pdf/2112.06749.pdf) 2021
 - [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/pdf/2206.05895.pdf) 2022
+
 
 # Diffusion model in CV
 - [Diffusion models beat GANs on image synthesis](https://proceedings.neurips.cc/paper/2021/hash/49ad23d1ec9fa4bd8d77d02681df5cfa-Abstract.html) 2021
@@ -37,7 +38,18 @@
 - [Grad-tts: A diffusion probabilistic model for text-to-speech](https://proceedings.mlr.press/v139/popov21a.html) 2021
 - [Diffsound: Discrete diffusion model for text-to-sound generation](https://arxiv.org/pdf/2207.09983.pdf) 2022
 - [High-resolution image synthesis with latent diffusion models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) 2022
-- 
+- [Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design](http://proceedings.mlr.press/v97/ho19a/ho19a.pdf) 2019
+- [Variational Inference with Normalizing Flows](http://proceedings.mlr.press/v37/rezende15.pdf) 2015
+- [SurVAE Flows: Surjections to Bridge the Gap between VAEs and Flows](https://proceedings.neurips.cc/paper/2020/hash/9578a63fbe545bd82cc5bbe749636af1-Abstract.html) 2020
+- [Learning Likelihoods with Conditional Normalizing Flows.](https://arxiv.org/pdf/1912.00042.pdf) 2019
+- [Imagen video: High definition video generation with diffusion models.](https://arxiv.org/pdf/2210.02303.pdf) 2022
+- [Equivariant diffusion for molecule generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a.html) 2022
+- [DiffDock: Diffusion steps, twists, and turns for molecular docking.](https://arxiv.org/pdf/2210.01776.pdf) 2022
+- [ProDiff: Progressive fast diffusion model for high-quality text-to-speech](https://dl.acm.org/doi/abs/10.1145/3503161.3547855) 2022
+- [Planning with diffusion for flexible behavior synthesis](https://arxiv.org/pdf/2205.09991.pdf) 2022
+- [Diff-TTS: A denoising diffusion model for text-to-speech.](https://arxiv.org/pdf/2104.01409.pdf) 2021
+- [Learning to Efficiently Sample from Diffusion Probabilistic Models](https://arxiv.org/pdf/2106.03802.pdf) 2021
+- [ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis](https://proceedings.neurips.cc/paper/2021/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html) 2021
 
 # Controllable Natural Language Generation
 - [Plug and play language models: A simple approach to controlled text generation](https://arxiv.org/abs/1912.02164) 2019
