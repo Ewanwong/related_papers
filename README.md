@@ -52,11 +52,29 @@
 - [ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis](https://proceedings.neurips.cc/paper/2021/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html) 2021
 
 # Controllable Natural Language Generation
-- [Plug and play language models: A simple approach to controlled text generation](https://arxiv.org/abs/1912.02164) 2019
+- [Plug and play language models: A simple approach to controlled text generation](https://arxiv.org/abs/1912.02164) ICLR 2019
 - [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/abs/1909.05858) 2019
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367) 2020
-- [DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://aclanthology.org/2021.acl-long.522.pdf) 2021
+- [DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://aclanthology.org/2021.acl-long.522.pdf) ACL 2021
 - [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/abs/2202.11705) 2022
 - [Gradient-guided Unsupervised Lexically Constrained Text Generation](https://aclanthology.org/2020.emnlp-main.701/) 2020
-- [FUDGE: Controlled Text Generation With Future Discriminators](https://aclanthology.org/2021.naacl-main.276/) 2021
+- [FUDGE: Controlled Text Generation With Future Discriminators](https://aclanthology.org/2021.naacl-main.276/) NAACL 2021
 - [Composable Text Controls in Latent Space with ODE](https://arxiv.org/pdf/2208.00638.pdf) 2022
+- [Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints](https://arxiv.org/pdf/1809.01215.pdf) EMNLP 2018
+- [Hafez: an Interactive Poetry Generation System](https://aclanthology.org/P17-4008.pdf) ACL 2017
+- [Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e.html) ICML 2017
+- [Controlling output length in neural encoder-decoders](https://aclanthology.org/D16-1140/) ACL 2016
+- [Multiple-attribute text rewriting](https://openreview.net/forum?id=H1g2NhC5KQ) ICLR 2019
+- [Learning to control the fine-grained sentiment for story ending generation](https://aclanthology.org/P19-1603/) ACL 2019
+- [What makes a good conversation? How controllable attributes affect human judgment](http://aclanthology.lst.uni-saarland.de/N19-1170.pdf) NAACL 2019
+- [Controlling Linguistic Style Aspects in Neural Language Generation](https://aclanthology.org/W17-4912/) ACL workshop 2017
+- [Affect-LM: A Neural Language Model for Customizable Affective Text Generation](https://aclanthology.org/P17-1059/) ACL 2017 
+- [Plug-and-Play Conversational Models](https://aclanthology.org/2020.findings-emnlp.219/) EMNLP 2020
+- [Exploring Controllable Text Generation Techniques](https://aclanthology.org/2020.coling-main.1/) COLING 2020
+- [Towards Controllable Biases in Language Generation](https://aclanthology.org/2020.findings-emnlp.291/) EMNLP 2020
+
+# Style Transfer
+- [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf) ACL 2019
+- [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://openreview.net/forum?id=B1bTGQ-ubS) NAACL 2018
+- [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/pdf/1705.09655.pdf) NIPS 2017
+- [“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://aclanthology.org/D19-1322/) EMNLP 2019
