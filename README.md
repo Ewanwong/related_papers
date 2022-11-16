@@ -57,14 +57,11 @@
 - [GeDi: Generative Discriminator Guided Sequence Generation](https://arxiv.org/abs/2009.06367) 2020
 - [DEXPERTS: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://aclanthology.org/2021.acl-long.522.pdf) ACL 2021
 - [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/abs/2202.11705) 2022
-- [Gradient-guided Unsupervised Lexically Constrained Text Generation](https://aclanthology.org/2020.emnlp-main.701/) 2020
+- [Gradient-guided unsupervised lexically constrained text generation](https://aclanthology.org/2020.emnlp-main.701.pdf) EMNLP 2020
 - [FUDGE: Controlled Text Generation With Future Discriminators](https://aclanthology.org/2021.naacl-main.276/) NAACL 2021
-- [Composable Text Controls in Latent Space with ODE](https://arxiv.org/pdf/2208.00638.pdf) 2022
 - [Generating More Interesting Responses in Neural Conversation Models with Distributional Constraints](https://arxiv.org/pdf/1809.01215.pdf) EMNLP 2018
 - [Hafez: an Interactive Poetry Generation System](https://aclanthology.org/P17-4008.pdf) ACL 2017
 - [Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e.html) ICML 2017
-- [Controlling output length in neural encoder-decoders](https://aclanthology.org/D16-1140/) ACL 2016
-- [Multiple-attribute text rewriting](https://openreview.net/forum?id=H1g2NhC5KQ) ICLR 2019
 - [Learning to control the fine-grained sentiment for story ending generation](https://aclanthology.org/P19-1603/) ACL 2019
 - [What makes a good conversation? How controllable attributes affect human judgment](http://aclanthology.lst.uni-saarland.de/N19-1170.pdf) NAACL 2019
 - [Controlling Linguistic Style Aspects in Neural Language Generation](https://aclanthology.org/W17-4912/) ACL workshop 2017
@@ -72,9 +69,41 @@
 - [Plug-and-Play Conversational Models](https://aclanthology.org/2020.findings-emnlp.219/) EMNLP 2020
 - [Exploring Controllable Text Generation Techniques](https://aclanthology.org/2020.coling-main.1/) COLING 2020
 - [Towards Controllable Biases in Language Generation](https://aclanthology.org/2020.findings-emnlp.291/) EMNLP 2020
+- [A distributional approach to controlled text generation.](https://arxiv.org/pdf/2012.11635.pdf) ICLR 2020
+- [Controlled Text Generation as Continuous Optimization with Multiple Constraints](https://openreview.net/forum?id=kTy7bbm-4I4) NeurIPS 2021
+- [Mix and Match: Learning-free Controllable Text Generationusing Energy Language Models](https://aclanthology.org/2022.acl-long.31/) ACL 2022
+- [Lexically constrained decoding for sequence generation using grid beam search](https://aclanthology.org/P17-1141.pdf) ACL 2017
+- [Neurologic decoding:(un) supervised neural text generation with predicate logic constraints](https://aclanthology.org/2021.naacl-main.339.pdf) NAACL 2021
+- [Neural Machine Translation Decoding with Terminology Constraints](https://aclanthology.org/N18-2081/) NAACL 2018
+- [Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting](https://aclanthology.org/N19-1090/) NAACL 2019
+- [CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf) AAAI 2019
+- [Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation](https://aclanthology.org/N18-1119/) NAACL 2018
+- [Learning to Write with Cooperative Discriminators](https://arxiv.org/pdf/1805.06087.pdf) ACL 2018
+- [Steering Output Style and Topic in Neural Response Generation](https://arxiv.org/abs/1709.03010) EMNLP 2017
+- [Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736) IJCAI 2019
+- [Towards Controllable Story Generation](https://aclanthology.org/W18-1505.pdf) NAACL Workshop 2018
+- [Learning to Control the Specificity in Neural Response Generation](https://aclanthology.org/P18-1102/) ACL 2018
+- [Controllable Abstractive Summarization](https://aclanthology.org/W18-2706/) ACL Workshop 2018
+- [Controllable Text Generation with Focused Variation](https://aclanthology.org/2020.findings-emnlp.339/) EMNLP 2020
+- [Rigid Formats Controlled Text Generation](https://aclanthology.org/2020.acl-main.68/) ACL 2020
+- [A Causal Lens for Controllable Text Generation](https://proceedings.neurips.cc/paper/2021/hash/d0f5edad9ac19abed9e235c0fe0aa59f-Abstract.html) NeurIPS 2021
+- [A Controllable Model of Grounded Response Generation](https://ojs.aaai.org/index.php/AAAI/article/view/17658) AAAI 2021
+- [POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/abs/2005.00558) EMNLP 2020
+- [Content preserving text generation with attribute controls](https://proceedings.neurips.cc/paper/2018/hash/7cf64379eb6f29a4d25c4b6a2df713e4-Abstract.html) NeurIPS 2018
+- [Polite Dialogue Generation Without Parallel Data](https://aclanthology.org/Q18-1027/) TACL 2018
+- [Topic-Guided Variational Autoencoders for Text Generation](https://aclanthology.org/N19-1015/) NAACL 2019
 
 # Style Transfer
 - [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf) ACL 2019
 - [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://openreview.net/forum?id=B1bTGQ-ubS) NAACL 2018
 - [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/pdf/1705.09655.pdf) NIPS 2017
 - [“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://aclanthology.org/D19-1322/) EMNLP 2019
+- [Disentangled representation learning for non-parallel text style transfer](https://aclanthology.org/P19-1041/?ref=https://githubhelp.com) ACL 2019
+- [Multiple-attribute text rewriting](https://openreview.net/forum?id=H1g2NhC5KQ) ICLR 2019
+- [Style Transfer in Text: Exploration and Evaluation](https://ojs.aaai.org/index.php/AAAI/article/view/11330) AAAI 2018
+- [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus](https://openreview.net/forum?id=BJboiQ-_-H) NAACL 2019
+- [Style Transfer Through Back-Translation](https://aclanthology.org/P18-1080/?ref=https://githubhelp.com) ACL 2018
+- [Towards Content Transfer through Grounded Text Generation](https://aclanthology.org/N19-1269/) NAACL 2019 
+- [Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation](https://proceedings.neurips.cc/paper/2019/hash/8804f94e16ba5b680e239a554a08f7d2-Abstract.html) NeurIPS 2019 
+- [Politeness Transfer: A Tag and Generate Approach](https://arxiv.org/abs/2004.14257) ACL 2020
+- [Unsupervised Text Style Transfer using Language Models as Discriminators](https://proceedings.neurips.cc/paper/2018/hash/398475c83b47075e8897a083e97eb9f0-Abstract.html) NeurIPS 2018
