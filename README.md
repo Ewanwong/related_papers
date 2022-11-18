@@ -78,7 +78,6 @@
 - [Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting](https://aclanthology.org/N19-1090/) NAACL 2019
 - [CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf) AAAI 2019
 - [Fast Lexically Constrained Decoding with Dynamic Beam Allocation for Neural Machine Translation](https://aclanthology.org/N18-1119/) NAACL 2018
-- [Learning to Write with Cooperative Discriminators](https://arxiv.org/pdf/1805.06087.pdf) ACL 2018
 - [Steering Output Style and Topic in Neural Response Generation](https://arxiv.org/abs/1709.03010) EMNLP 2017
 - [Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736) IJCAI 2019
 - [Towards Controllable Story Generation](https://aclanthology.org/W18-1505.pdf) NAACL Workshop 2018
@@ -92,6 +91,16 @@
 - [Content preserving text generation with attribute controls](https://proceedings.neurips.cc/paper/2018/hash/7cf64379eb6f29a4d25c4b6a2df713e4-Abstract.html) NeurIPS 2018
 - [Polite Dialogue Generation Without Parallel Data](https://aclanthology.org/Q18-1027/) TACL 2018
 - [Topic-Guided Variational Autoencoders for Text Generation](https://aclanthology.org/N19-1015/) NAACL 2019
+- [Controllable Neural Story Plot Generation via Reward Shaping](https://www.ijcai.org/proceedings/2019/829) IJCAI 2019
+- [Cocon: A self-supervised approach for controlled text generation](https://openreview.net/forum?id=VD_ozqvBy4W) ICLR 2021
+- [DExperts: Decoding-time controlled text generation with experts and anti-experts](https://aclanthology.org/2021.acl-long.522/) ACL 2021
+- [PowerTransformer: Unsupervised controllable revision for biased language correction](https://aclanthology.org/2020.emnlp-main.602/) EMNLP 2020 
+- [Negative Lexically Constrained Decoding for Paraphrase Generation](https://aclanthology.org/P19-1607/) ACL 2019
+- [PARABANK: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-Constrained Neural Machine Translation](https://ojs.aaai.org/index.php/AAAI/article/view/4618) AAAI 2019
+- [Guided Open Vocabulary Image Captioning with Constrained Beam Search](https://aclanthology.org/D17-1098/?ref=https://githubhelp.com) EMNLP 2017
+- [Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG](https://aclanthology.org/P19-1596/) ACL 2019
+- [Controlling Personality-Based Stylistic Variation with Neural Natural Language Generators](https://aclanthology.org/W18-5019/) SIGDIAL 2018
+- [Generate your counterfactuals: Towards controlled counterfactual generation for text](https://ojs.aaai.org/index.php/AAAI/article/view/17594) AAAI 2021
 
 # Style Transfer
 - [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf) ACL 2019
@@ -107,3 +116,9 @@
 - [Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation](https://proceedings.neurips.cc/paper/2019/hash/8804f94e16ba5b680e239a554a08f7d2-Abstract.html) NeurIPS 2019 
 - [Politeness Transfer: A Tag and Generate Approach](https://arxiv.org/abs/2004.14257) ACL 2020
 - [Unsupervised Text Style Transfer using Language Models as Discriminators](https://proceedings.neurips.cc/paper/2018/hash/398475c83b47075e8897a083e97eb9f0-Abstract.html) NeurIPS 2018
+- [Contextual text style transfer](https://aclanthology.org/2020.findings-emnlp.263/) EMNLP 2020
+- [Reformulating unsupervised style transfer as paraphrase generation](https://aclanthology.org/2020.emnlp-main.55/) EMNLP 2020
+- [A probabilistic formulation of unsupervised text style transfer](https://openreview.net/forum?id=HJlA0C4tPS) ICLR 2020
+- [Style Pooling: Automatic Text Style Obfuscation for Improved Classification Fairness](https://aclanthology.org/2021.emnlp-main.152/) EMNLP 2021
+- [A Recipe for Arbitrary Text Style Transfer with Large Language Models](https://aclanthology.org/2022.acl-short.94/) ACL 2022
+- [ A dual reinforcement learning framework for unsupervised text style transfer](https://openreview.net/forum?id=oJvtywo_YP0) IJCAI 2019
