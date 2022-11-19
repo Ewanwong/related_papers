@@ -93,7 +93,6 @@
 - [Topic-Guided Variational Autoencoders for Text Generation](https://aclanthology.org/N19-1015/) NAACL 2019
 - [Controllable Neural Story Plot Generation via Reward Shaping](https://www.ijcai.org/proceedings/2019/829) IJCAI 2019
 - [Cocon: A self-supervised approach for controlled text generation](https://openreview.net/forum?id=VD_ozqvBy4W) ICLR 2021
-- [DExperts: Decoding-time controlled text generation with experts and anti-experts](https://aclanthology.org/2021.acl-long.522/) ACL 2021
 - [PowerTransformer: Unsupervised controllable revision for biased language correction](https://aclanthology.org/2020.emnlp-main.602/) EMNLP 2020 
 - [Negative Lexically Constrained Decoding for Paraphrase Generation](https://aclanthology.org/P19-1607/) ACL 2019
 - [PARABANK: Monolingual Bitext Generation and Sentential Paraphrasing via Lexically-Constrained Neural Machine Translation](https://ojs.aaai.org/index.php/AAAI/article/view/4618) AAAI 2019
@@ -101,6 +100,11 @@
 - [Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG](https://aclanthology.org/P19-1596/) ACL 2019
 - [Controlling Personality-Based Stylistic Variation with Neural Natural Language Generators](https://aclanthology.org/W18-5019/) SIGDIAL 2018
 - [Generate your counterfactuals: Towards controlled counterfactual generation for text](https://ojs.aaai.org/index.php/AAAI/article/view/17594) AAAI 2021
+- [Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models](https://openreview.net/forum?id=Sy8XvGb0-) ICLR 2018
+- [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://aclanthology.org/D19-1055/) EMNLP 2019
+- [Generating Stylistically Consistent Dialog Responses with Transfer Learning](https://aclanthology.org/I17-2069/) IJCNLP 2017
+- [MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform](https://aclanthology.org/2020.acl-demos.26/) ACL 2020
+- [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://arxiv.org/pdf/1911.03882.pdf) ACL 2020
 
 # Style Transfer
 - [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf) ACL 2019
@@ -121,4 +125,25 @@
 - [A probabilistic formulation of unsupervised text style transfer](https://openreview.net/forum?id=HJlA0C4tPS) ICLR 2020
 - [Style Pooling: Automatic Text Style Obfuscation for Improved Classification Fairness](https://aclanthology.org/2021.emnlp-main.152/) EMNLP 2021
 - [A Recipe for Arbitrary Text Style Transfer with Large Language Models](https://aclanthology.org/2022.acl-short.94/) ACL 2022
-- [ A dual reinforcement learning framework for unsupervised text style transfer](https://openreview.net/forum?id=oJvtywo_YP0) IJCAI 2019
+- [A dual reinforcement learning framework for unsupervised text style transfer](https://openreview.net/forum?id=oJvtywo_YP0) IJCAI 2019
+- [Sequence to Better Sequence: Continuous Revision of Combinatorial Structures](http://proceedings.mlr.press/v70/mueller17a/mueller17a.pdf) ICML 2017
+- [Adversarially Regularized Autoencoders](https://arxiv.org/pdf/1706.04223.pdf) ICML 2018
+- [SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation](https://arxiv.org/pdf/1804.04093.pdf) NAACL 2018
+- [Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach](https://arxiv.org/pdf/1805.05181.pdf) ACL 2018
+- [Learning Sentiment Memories for Sentiment Modification without Parallel Data](https://arxiv.org/pdf/1808.07311.pdf) EMNLP 2018
+- [Adversarial Text Generation via Feature-Mover's Distance](https://arxiv.org/pdf/1809.06297.pdf) NeurIPS 2018
+- [A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer](https://aclanthology.org/P19-1482.pdf) ACL 2019
+- [Generating Sentences from Disentangled Syntactic and Semantic Spaces](https://aclanthology.org/P19-1602.pdf) ACL 2019
+- [Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation](https://arxiv.org/pdf/1905.12926.pdf) NeurIPS 2019
+- [Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning](https://arxiv.org/pdf/1905.12304.pdf) AAAI 2020
+- [On Variational Learning of Controllable Representations for Text without Supervision](https://arxiv.org/pdf/1905.11975.pdf) ICML 2020
+- [Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer](https://arxiv.org/pdf/2005.02049.pdf) ACL 2020
+- [Text Style Transfer via Learning Style Instance Supported Latent Space](https://www.ijcai.org/Proceedings/2020/0526.pdf) IJCAI 2020
+- [Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2010.00735.pdf) COLING 2020
+- [How Positive Are You: Text Style Transfer using Adaptive Style Embedding](https://aclanthology.org/2020.coling-main.191.pdf) COLING 2020
+- [On Learning Text Style Transfer with Direct Rewards](https://arxiv.org/pdf/2010.12771.pdf) NAACL 2021
+- [Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus](https://arxiv.org/pdf/2010.11578.pdf) NAACL 2021
+- [A Hierarchical VAE for Calibrating Attributes while Generating Text using Normalizing Flow](https://aclanthology.org/2021.acl-long.187.pdf) ACL 2021
+- [Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization](https://arxiv.org/pdf/2108.00449.pdf) ACL 2021
+- [Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer](https://aclanthology.org/2021.acl-short.7.pdf) ACL 2021
+- [TextSETTR: Few-Shot Text Style Extraction and Tunable Targeted Restyling](https://aclanthology.org/2021.acl-long.293.pdf) ACL 2021
