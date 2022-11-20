@@ -6,7 +6,6 @@
 - [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) 2022
 - [CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning](https://arxiv.org/abs/2210.04559) 2022
 - [Argmax flows and multinomial diffusion: Towards non-autoregressive language models](https://arxiv.org/pdf/2102.05379v3.pdf) 2021
-
 - [Categorical SDEs with Simplex Diffusion](https://arxiv.org/pdf/2210.14784.pdf) 2022
 - [Step-unrolled denoising autoencoders for text generation](https://arxiv.org/pdf/2112.06749.pdf) 2021
 - [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/pdf/2206.05895.pdf) 2022
@@ -105,6 +104,7 @@
 - [Generating Stylistically Consistent Dialog Responses with Transfer Learning](https://aclanthology.org/I17-2069/) IJCNLP 2017
 - [MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform](https://aclanthology.org/2020.acl-demos.26/) ACL 2020
 - [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://arxiv.org/pdf/1911.03882.pdf) ACL 2020
+- [Plug and Play Autoencoders for Conditional Text Generation](https://arxiv.org/pdf/2010.02983.pdf) EMNLP 2020
 
 # Style Transfer
 - [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf) ACL 2019
@@ -147,3 +147,50 @@
 - [Enhancing Content Preservation in Text Style Transfer Using Reverse Attention and Conditional Layer Normalization](https://arxiv.org/pdf/2108.00449.pdf) ACL 2021
 - [Counterfactuals to Control Latent Disentangled Text Representations for Style Transfer](https://aclanthology.org/2021.acl-short.7.pdf) ACL 2021
 - [TextSETTR: Few-Shot Text Style Extraction and Tunable Targeted Restyling](https://aclanthology.org/2021.acl-long.293.pdf) ACL 2021
+- [Mask and Infill: Applying Masked Language Model to Sentiment Transfer](https://arxiv.org/pdf/1908.08039.pdf) IJCAL 2018
+- [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites](https://arxiv.org/pdf/1908.06809.pdf) EMNLP 2019
+- [Unsupervised Text Style Transfer with Padded Masked Language Models](https://arxiv.org/pdf/2010.01054.pdf) EMNLP 2020
+- [LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2105.08206.pdf) ACL Findings 2021
+- [NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2106.02210.pdf) ACL Findings 2021
+- [QuaSE: Sequence Editing under Quantifiable Guidance](https://arxiv.org/pdf/1804.07007.pdf) EMNLP 2018
+- [IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://arxiv.org/pdf/1901.11333.pdf) EMNLP 2019
+- [Unsupervised Text Generation by Learning from Search](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf) NeurIPS 2020
+- [DGST: a Dual-Generator Network for Text Style Transfer](https://arxiv.org/pdf/2010.14557.pdf) EMNLP 2020
+- [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://arxiv.org/pdf/1909.11493.pdf) EMNLP 2019
+- [Dear Sir or Madam, May I introduce the YAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer](https://arxiv.org/pdf/1803.06535.pdf) NAACL 2018
+- [Unsupervised Controllable Text Formalization](https://arxiv.org/pdf/1809.04556.pdf) AAAI 2019
+- [Domain Adaptive Text Style Transfer](https://arxiv.org/pdf/1908.09395.pdf) EMNLP 2019
+- [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer](https://aclanthology.org/D19-1365/) EMNLP 2019
+- [Formality Style Transfer with Shared Latent Space](https://aclanthology.org/2020.coling-main.203.pdf) COLING 2020
+- [Parallel Data Augmentation for Formality Style Transfer](https://arxiv.org/pdf/2005.07522.pdf) ACL 2020
+- [Olá, Bonjour, Salve! XFORMAL: A Benchmark for Multilingual Formality Style Transfer](https://aclanthology.org/2021.naacl-main.256.pdf) NAACL 2021
+- [Improving Formality Style Transfer with Context-Aware Rule Injection](https://arxiv.org/pdf/2106.00210.pdf) ACL 2021
+- [Thank you BART! Rewarding Pre-Trained Models Improves Formality Style Transfer](https://aclanthology.org/2021.acl-short.62.pdf) ACL 2021
+- [Politeness Transfer: A Tag and Generate Approach](https://arxiv.org/pdf/2004.14257.pdf) ACL 2020
+- [Controllable Text Simplification with Explicit Paraphrasing](https://arxiv.org/pdf/2010.11004.pdf) NAACL 2021
+- [Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen](https://arxiv.org/pdf/2005.00701.pdf) ACL 2020
+- [Paragraph-level Simplification of Medical Texts](https://aclanthology.org/2021.naacl-main.395.pdf) NAACL 2021
+- [Adapting Language Models for Non-Parallel Author-Stylized Rewriting](https://arxiv.org/pdf/1909.09962.pdf) AAAI 2020
+- [Towards Modeling the Style of Translators in Neural Machine Translation](https://aclanthology.org/2021.naacl-main.94.pdf) NAACL 2021
+- [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](https://arxiv.org/pdf/2004.01980.pdf) ACL 2020
+- [Inference Time Style Control for Summarization](https://arxiv.org/pdf/2104.01724.pdf) NAACL 2021
+- [ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation](https://arxiv.org/pdf/1909.06564.pdf) EMNLP 2019
+- [Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer](https://arxiv.org/pdf/2005.02049.pdf) ACL 2020
+- [Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer](https://arxiv.org/pdf/1805.07685.pdf) ACL 2018
+- [QuaSE: Sequence Editing under Quantifiable Guidance](https://aclanthology.org/D18-1420.pdf) EMNLP 2018
+- [Unsupervised Text Attribute Transfer via Iterative Matching and Translation](https://arxiv.org/pdf/1901.11333.pdf) EMNLP 2019
+- [Exploring Non-Autoregressive Text Style Transfer](https://aclanthology.org/2021.emnlp-main.730.pdf) EMNLP 2021
+- [Generic resources are what you need: Style transfer tasks without task-specific parallel training data](https://arxiv.org/pdf/2109.04543.pdf) EMNLP 2021
+- [Transductive Learning for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2109.07812.pdf) EMNLP 2021
+- [Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer](https://aclanthology.org/2021.emnlp-main.729.pdf) EMNLP 2021
+- [STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer](https://arxiv.org/pdf/2104.05196.pdf) NAACL 2021
+- [Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus](https://arxiv.org/pdf/2010.11578.pdf) NAACL 2021
+- [So Different Yet So Alike! Constrained Unsupervised Text Style Transfer](https://aclanthology.org/2022.acl-long.32.pdf) ACL 2022
+- [Semi-Supervised Formality Style Transfer with Consistency Training](https://aclanthology.org/2022.acl-long.321.pdf) ACL 2022
+- [Evaluating Style Transfer for Text](https://arxiv.org/pdf/1904.02295.pdf) NAACL 2019
+- [Style versus Content: A distinction without a (learnable) difference?](https://aclanthology.org/2020.coling-main.197.pdf) COLING 2020
+- [Rethinking Sentiment Style Transfer](https://aclanthology.org/2021.findings-emnlp.135.pdf) EMNLP 2021
+- [Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer](https://aclanthology.org/2021.emnlp-main.100.pdf) EMNLP 2021
+- [Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework](https://aclanthology.org/2021.emnlp-main.569.pdf) EMNLP 2021
+- [Towards A Friendly Online Community: An Unsupervised Style Transfer Framework for Profanity Redaction](https://arxiv.org/pdf/2011.00403.pdf) COLING 2020
+- [MISS: An Assistant for Multi-Style Simultaneous Translation](https://aclanthology.org/2021.emnlp-demo.1.pdf) EMNLP 2021
